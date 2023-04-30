@@ -1,0 +1,11 @@
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\bin\Debug\KonhoidNikomeda.exe.config
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\bin\Debug\KonhoidNikomeda.exe
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\bin\Debug\KonhoidNikomeda.pdb
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.csproj.AssemblyReference.cache
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.csproj.SuggestedBindingRedirects.cache
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.Form1.resources
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.Properties.Resources.resources
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.csproj.GenerateResource.cache
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.csproj.CoreCompileInputs.cache
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.exe
+C:\Users\romkp\source\repos\KonhoidNikomeda\KonhoidNikomeda\obj\Debug\KonhoidNikomeda.pdb
